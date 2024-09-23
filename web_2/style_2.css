@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(168, 203, 234);
+}
+.all{
+    width: 400px;
+    height: 230px;
+    border-radius: 28px;
+    background-color: black;
+    margin-left: 430px;
+    margin-top: 170px;
+}
+.img-1{
+    height: 40px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.img-2{
+    width: 55px;
+    height: 40px;
+    padding-left: 165px;
+    padding-top: 15px;
+}
+.class-yt{
+    color: white;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.class-yt2{
+    color: white;
+    font-size: 15px;
+    padding-left: 30px;
+    position: relative;
+    top: 30px;
+}
+.num-1 {
+    color: white;
+    font-size: 20px;
+    padding-left: 30px;
+    position: relative;
+    top: 20px;
+}
+.num-2{
+    color: white;
+    padding-left: 165px;
+    position: relative;
+    bottom: 10px;
+}
+.valid{
+    font-size: 14px;
+    color: white;
+    padding-left: 317px;
+    position: relative;
+    top: 20px;
+}
+.name{
+    color: white;
+    padding-left: 30px;
+    position: relative;
+    bottom: 10px;
+}
+.first{
+    display: inline-flex;
+}
+.second{
+    display: inline-flex;
+}
